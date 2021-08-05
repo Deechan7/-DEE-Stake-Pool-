@@ -4,5 +4,5 @@
 "discordId":"803572598516088842",
 "pool-list":"true",
 "poolMetaData":"https://raw.githubusercontent.com/Deechan7/-DEE-Stake-Pool-/main/poolMetaData.json",
-"validation":"https://xstakepool.com/sjg-validation.json"
+"validation":"https://raw.githubusercontent.com/Deechan7/-DEE-Stake-Pool-/main/sjg-validation.json"
 }
