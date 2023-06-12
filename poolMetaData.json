@@ -1,7 +1,6 @@
 {
   "name": "【DEE Stake Pool】",
-  "description": "安心安全な日本発プールです。セットアップの実行、強化、保守(セキュリティー)を行っています。Cardanoを愛し、SPOとしてやるべき事を確実に実行します。💝Happy staking💝を合言葉にステーキングをサポートします。",
+  "description": "プライベートプールに変更しました。間違っても委任しないようにお願いします！Changed to private pool. Please do not delegate by mistake!",
   "ticker": "DEE",
-  "homepage": "https://twitter.com/deisensei",
   "extended": "https://raw.githubusercontent.com/Deechan7/DEE_icon/main/extendedMeta.json"
 }
