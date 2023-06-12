@@ -1,6 +1,7 @@
 {
-  "name": "【DEE Stake Pool】",
-  "description": "プライベートプールに変更しました。間違っても委任しないようにお願いします！Changed to private pool. Please do not delegate by mistake!",
-  "ticker": "DEE",
-  "extended": "https://raw.githubusercontent.com/Deechan7/DEE_icon/main/extendedMeta.json"
+"name": "【DEE Stake Pool】",
+"description": "プライベートプールに変更しました。間違っても委任しないようにお願いします！Changed to private pool. Please do not delegate by mistake!",
+"ticker": "DEE",
+"homepage": "https://twitter.com/deisensei",
+"extended": "https://raw.githubusercontent.com/Deechan7/DEE_icon/main/extendedMeta.json"
 }
